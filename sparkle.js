@@ -1,355 +1,179 @@
-<script>var s="wbs!dpmpvs>#xijuf#<
-
-wbs!tqbslmft>61<
-
-wbs!y>py>511<
-
-wbs!z>pz>411<
-
-wbs!txjef>911<
-
-wbs!tijhi>711<
-
-wbs!tmfgu>tepxo>1<
-
-wbs!ujoz>ofx!Bssbz)*<
-
-wbs!tubs>ofx!Bssbz)*<
-
-wbs!tubsw>ofx!Bssbz)*<
-
-wbs!tubsy>ofx!Bssbz)*<
-
-wbs!tubsz>ofx!Bssbz)*<
-
-wbs!ujozy>ofx!Bssbz)*<
-
-wbs!ujozz>ofx!Bssbz)*<
-
-wbs!ujozw>ofx!Bssbz)*<
-
-xjoepx/pompbe>gvodujpo)*!|!jg!)epdvnfou/hfuFmfnfouCzJe*!|
-
-!!wbs!j-!sbut-!smfg-!sepx<
-
-!!gps!)wbs!j>1<!j=tqbslmft<!j,,*!|
-
-!!!!wbs!sbut>dsfbufEjw)4-!4*<
-
-!!!!sbut/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-!!!!sbut/tuzmf/{Joefy>#:::#<
-
-!!!!epdvnfou/cpez/bqqfoeDijme)ujoz\\j^>sbut*<
-
-!!!!tubsw\\j^>1<
-
-!!!!ujozw\\j^>1<
-
-!!!!wbs!sbut>dsfbufEjw)6-!6*<
-
-!!!!sbut/tuzmf/cbdlhspvoeDpmps>#usbotqbsfou#<
-
-!!!!sbut/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-!!!!sbut/tuzmf/{Joefy>#:::#<
-
-!!!!wbs!smfg>dsfbufEjw)2-!6*<
-
-!!!!wbs!sepx>dsfbufEjw)6-!2*<
-
-!!!!sbut/bqqfoeDijme)smfg*<
-
-!!!!sbut/bqqfoeDijme)sepx*<
-
-!!!!smfg/tuzmf/upq>#3qy#<
-
-!!!!smfg/tuzmf/mfgu>#1qy#<
-
-!!!!sepx/tuzmf/upq>#1qy#<
-
-!!!!sepx/tuzmf/mfgu>#3qy#<
-
-!!!!epdvnfou/cpez/bqqfoeDijme)tubs\\j^>sbut*<
-
-!!~
-
-!!tfu`xjeui)*<
-
-!!tqbslmf)*<
-
-~~
-
-gvodujpo!tqbslmf)*!|
-
-!!wbs!d<
-
-!!jg!)Nbui/bct)y.py*?2!}}!Nbui/bct)z.pz*?2*!|
-
-!!!!py>y<
-
-!!!!pz>z<
-
-!!!!gps!)d>1<!d=tqbslmft<!d,,*!jg!)\"tubsw\\d^*!|
-
-!!!!!!tubs\\d^/tuzmf/mfgu>)tubsy\\d^>y*,#qy#<
-
-!!!!!!tubs\\d^/tuzmf/upq>)tubsz\\d^>z,2*,#qy#<
-
-!!!!!!tubs\\d^/tuzmf/dmjq>#sfdu)1qy-!6qy-!6qy-!1qy*#<
-
-!!!!!!tubs\\d^/dijmeOpeft\\1^/tuzmf/cbdlhspvoeDpmps>tubs\\d^/dijmeOpeft\\2^/tuzmf/cbdlhspvoeDpmps>)dpmpvs>>#sboepn#*@ofxDpmpvs)*;dpmpvs<
-
-!!!!!!tubs\\d^/tuzmf/wjtjcjmjuz>#wjtjcmf#<
-
-!!!!!!tubsw\\d^>61<
-
-!!!!!!csfbl<
-
-!!!!~
-
-!!~
-
-!!gps!)d>1<!d=tqbslmft<!d,,*!|
-
-!!!!jg!)tubsw\\d^*!vqebuf`tubs)d*<
-
-!!!!jg!)ujozw\\d^*!vqebuf`ujoz)d*<
-
-!!~
-
-!!tfuUjnfpvu)#tqbslmf)*#-!51*<
-
-~
-
-gvodujpo!vqebuf`tubs)j*!|
-
-!!jg!)..tubsw\\j^>>36*!tubs\\j^/tuzmf/dmjq>#sfdu)2qy-!5qy-!5qy-!2qy*#<
-
-!!jg!)tubsw\\j^*!|
-
-!!!!tubsz\\j^,>2,Nbui/sboepn)*+4<
-
-!!!!tubsy\\j^,>)j&6.3*06<
-
-!!!!jg!)tubsz\\j^=tijhi,tepxo*!|
-
-!!!!!!tubs\\j^/tuzmf/upq>tubsz\\j^,#qy#<
-
-!!!!!!tubs\\j^/tuzmf/mfgu>tubsy\\j^,#qy#<
-
-!!!!~
-
-!!!!fmtf!|
-
-!!!!!!tubs\\j^/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-!!!!!!tubsw\\j^>1<
-
-!!!!!!sfuvso<
-
-!!!!~
-
-!!~
-
-!!fmtf!|
-
-!!!!ujozw\\j^>61<
-
-!!!!ujoz\\j^/tuzmf/upq>)ujozz\\j^>tubsz\\j^*,#qy#<
-
-!!!!ujoz\\j^/tuzmf/mfgu>)ujozy\\j^>tubsy\\j^*,#qy#<
-
-!!!!ujoz\\j^/tuzmf/xjeui>#3qy#<
-
-!!!!ujoz\\j^/tuzmf/ifjhiu>#3qy#<
-
-!!!!ujoz\\j^/tuzmf/cbdlhspvoeDpmps>tubs\\j^/dijmeOpeft\\1^/tuzmf/cbdlhspvoeDpmps<
-
-!!!!tubs\\j^/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-!!!!ujoz\\j^/tuzmf/wjtjcjmjuz>#wjtjcmf#
-
-!!~
-
-~
-
-gvodujpo!vqebuf`ujoz)j*!|
-
-!!jg!)..ujozw\\j^>>36*!|
-
-!!!!ujoz\\j^/tuzmf/xjeui>#2qy#<
-
-!!!!ujoz\\j^/tuzmf/ifjhiu>#2qy#<
-
-!!~
-
-!!jg!)ujozw\\j^*!|
-
-!!!!ujozz\\j^,>2,Nbui/sboepn)*+4<
-
-!!!!ujozy\\j^,>)j&6.3*06<
-
-!!!!jg!)ujozz\\j^=tijhi,tepxo*!|
-
-!!!!!!ujoz\\j^/tuzmf/upq>ujozz\\j^,#qy#<
-
-!!!!!!ujoz\\j^/tuzmf/mfgu>ujozy\\j^,#qy#<
-
-!!!!~
-
-!!!!fmtf!|
-
-!!!!!!ujoz\\j^/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-!!!!!!ujozw\\j^>1<
-
-!!!!!!sfuvso<
-
-!!!!~
-
-!!~
-
-!!fmtf!ujoz\\j^/tuzmf/wjtjcjmjuz>#ijeefo#<
-
-~
-
-epdvnfou/ponpvtfnpwf>npvtf<
-
-gvodujpo!npvtf)f*!|
-
-!!jg!)f*!|
-
-!!!!z>f/qbhfZ<
-
-!!!!y>f/qbhfY<
-
-!!~
-
-!!fmtf!|
-
-!!!!tfu`tdspmm)*<
-
-!!!!z>fwfou/z,tepxo<
-
-!!!!y>fwfou/y,tmfgu<
-
-!!~
-
-~
-
-xjoepx/potdspmm>tfu`tdspmm<
-
-gvodujpo!tfu`tdspmm)*!|
-
-!!jg!)uzqfpg)tfmg/qbhfZPggtfu*>>(ovncfs(*!|
-
-!!!!tepxo>tfmg/qbhfZPggtfu<
-
-!!!!tmfgu>tfmg/qbhfYPggtfu<
-
-!!~
-
-!!fmtf!jg!)epdvnfou/cpez!\'\'!)epdvnfou/cpez/tdspmmUpq!}}!epdvnfou/cpez/tdspmmMfgu**!|
-
-!!!!tepxo>epdvnfou/cpez/tdspmmUpq<
-
-!!!!tmfgu>epdvnfou/cpez/tdspmmMfgu<
-
-!!~
-
-!!fmtf!jg!)epdvnfou/epdvnfouFmfnfou!\'\'!)epdvnfou/epdvnfouFmfnfou/tdspmmUpq!}}!epdvnfou/epdvnfouFmfnfou/tdspmmMfgu**!|
-
-!!!!tmfgu>epdvnfou/epdvnfouFmfnfou/tdspmmMfgu<
-
-!!!!tepxo>epdvnfou/epdvnfouFmfnfou/tdspmmUpq<
-
-!!~
-
-!!fmtf!|
-
-!!!!tepxo>1<
-
-!!!!tmfgu>1<
-
-!!~
-
-~
-
-xjoepx/posftj{f>tfu`xjeui<
-
-gvodujpo!tfu`xjeui)*!|
-
-!!wbs!tx`njo>::::::<
-
-!!wbs!ti`njo>::::::<
-
-!!jg!)epdvnfou/epdvnfouFmfnfou!\'\'!epdvnfou/epdvnfouFmfnfou/dmjfouXjeui*!|
-
-!!!!jg!)epdvnfou/epdvnfouFmfnfou/dmjfouXjeui?1*!tx`njo>epdvnfou/epdvnfouFmfnfou/dmjfouXjeui<
-
-!!!!jg!)epdvnfou/epdvnfouFmfnfou/dmjfouIfjhiu?1*!ti`njo>epdvnfou/epdvnfouFmfnfou/dmjfouIfjhiu<
-
-!!~
-
-!!jg!)uzqfpg)tfmg/joofsXjeui*>>(ovncfs(!\'\'!tfmg/joofsXjeui*!|
-
-!!!!jg!)tfmg/joofsXjeui?1!\'\'!tfmg/joofsXjeui=tx`njo*!tx`njo>tfmg/joofsXjeui<
-
-!!!!jg!)tfmg/joofsIfjhiu?1!\'\'!tfmg/joofsIfjhiu=ti`njo*!ti`njo>tfmg/joofsIfjhiu<
-
-!!~
-
-!!jg!)epdvnfou/cpez/dmjfouXjeui*!|
-
-!!!!jg!)epdvnfou/cpez/dmjfouXjeui?1!\'\'!epdvnfou/cpez/dmjfouXjeui=tx`njo*!tx`njo>epdvnfou/cpez/dmjfouXjeui<
-
-!!!!jg!)epdvnfou/cpez/dmjfouIfjhiu?1!\'\'!epdvnfou/cpez/dmjfouIfjhiu=ti`njo*!ti`njo>epdvnfou/cpez/dmjfouIfjhiu<
-
-!!~
-
-!!jg!)tx`njo>>::::::!}}!ti`njo>>::::::*!|
-
-!!!!tx`njo>911<
-
-!!!!ti`njo>711<
-
-!!~
-
-!!txjef>tx`njo<
-
-!!tijhi>ti`njo<
-
-~
-
-gvodujpo!dsfbufEjw)ifjhiu-!xjeui*!|
-
-!!wbs!ejw>epdvnfou/dsfbufFmfnfou)#ejw#*<
-
-!!ejw/tuzmf/qptjujpo>#bctpmvuf#<
-
-!!ejw/tuzmf/ifjhiu>ifjhiu,#qy#<
-
-!!ejw/tuzmf/xjeui>xjeui,#qy#<
-
-!!ejw/tuzmf/pwfsgmpx>#ijeefo#<
-
-!!sfuvso!)ejw*<
-
-~
-
-gvodujpo!ofxDpmpvs)*!|
-
-!!wbs!d>ofx!Bssbz)*<
-
-!!d\\1^>366<
-
-!!d\\2^>Nbui/gmpps)Nbui/sboepn)*+367*<
-
-!!d\\3^>Nbui/gmpps)Nbui/sboepn)*+)367.d\\2^03**<
-
-!!d/tpsu)gvodujpo)*|sfuvso!)1/6!.!Nbui/sboepn)**<~*<
-
-!!sfuvso!)#shc)#,d\\1^,#-!#,d\\2^,#-!#,d\\3^,#*#*<
-
-~";var m="";for(var i=0;i<s.length;i++)m+=String.fromCharCode(s.charCodeAt(i)-1);document.write(m);</script><noscript>You must enable JavaScript to see this text.</noscript>
+var colour="white";
+		var sparkles=50;
+		var x=ox=400;
+		var y=oy=300;
+		var swide=800;
+		var shigh=600;
+		var sleft=sdown=0;
+		var tiny=new Array();
+		var star=new Array();
+		var starv=new Array();
+		var starx=new Array();
+		var stary=new Array();
+		var tinyx=new Array();
+		var tinyy=new Array();
+		var tinyv=new Array();
+		window.onload=function() { if (document.getElementById) {
+		  var i, rats, rlef, rdow;
+		  for (var i=0; i<sparkles; i++) {
+		    var rats=createDiv(3, 3);
+		    rats.style.visibility="hidden";
+		    rats.style.zIndex="999";
+		    document.body.appendChild(tiny[i]=rats);
+		    starv[i]=0;
+		    tinyv[i]=0;
+		    var rats=createDiv(5, 5);
+		    rats.style.backgroundColor="transparent";
+		    rats.style.visibility="hidden";
+		    rats.style.zIndex="999";
+		    var rlef=createDiv(1, 5);
+		    var rdow=createDiv(5, 1);
+		    rats.appendChild(rlef);
+		    rats.appendChild(rdow);
+		    rlef.style.top="2px";
+		    rlef.style.left="0px";
+		    rdow.style.top="0px";
+		    rdow.style.left="2px";
+		    document.body.appendChild(star[i]=rats);
+		  }
+		  set_width();
+		  sparkle();
+		}}
+		function sparkle() {
+		  var c;
+		  if (Math.abs(x-ox)>1 || Math.abs(y-oy)>1) {
+		    ox=x;
+		    oy=y;
+		    for (c=0; c<sparkles; c++) if (!starv[c]) {
+		      star[c].style.left=(starx[c]=x)+"px";
+		      star[c].style.top=(stary[c]=y+1)+"px";
+		      star[c].style.clip="rect(0px, 5px, 5px, 0px)";
+		      star[c].childNodes[0].style.backgroundColor=star[c].childNodes[1].style.backgroundColor=(colour=="random")?newColour():colour;
+		      star[c].style.visibility="visible";
+		      starv[c]=50;
+		      break;
+		    }
+		  }
+		  for (c=0; c<sparkles; c++) {
+		    if (starv[c]) update_star(c);
+		    if (tinyv[c]) update_tiny(c);
+		  }
+		  setTimeout("sparkle()", 40);
+		}
+
+		function update_star(i) {
+		  if (--starv[i]==25) star[i].style.clip="rect(1px, 4px, 4px, 1px)";
+		  if (starv[i]) {
+		    stary[i]+=1+Math.random()*3;
+		    starx[i]+=(i%5-2)/5;
+		    if (stary[i]<shigh+sdown) {
+		      star[i].style.top=stary[i]+"px";
+		      star[i].style.left=starx[i]+"px";
+		    }
+		    else {
+		      star[i].style.visibility="hidden";
+		      starv[i]=0;
+		      return;
+		    }
+		  }
+		  else {
+		    tinyv[i]=50;
+		    tiny[i].style.top=(tinyy[i]=stary[i])+"px";
+		    tiny[i].style.left=(tinyx[i]=starx[i])+"px";
+		    tiny[i].style.width="2px";
+		    tiny[i].style.height="2px";
+		    tiny[i].style.backgroundColor=star[i].childNodes[0].style.backgroundColor;
+		    star[i].style.visibility="hidden";
+		    tiny[i].style.visibility="visible"
+		  }
+		}
+		function update_tiny(i) {
+		  if (--tinyv[i]==25) {
+		    tiny[i].style.width="1px";
+		    tiny[i].style.height="1px";
+		  }
+		  if (tinyv[i]) {
+		    tinyy[i]+=1+Math.random()*3;
+		    tinyx[i]+=(i%5-2)/5;
+		    if (tinyy[i]<shigh+sdown) {
+		      tiny[i].style.top=tinyy[i]+"px";
+		      tiny[i].style.left=tinyx[i]+"px";
+		    }
+		    else {
+		      tiny[i].style.visibility="hidden";
+		      tinyv[i]=0;
+		      return;
+		    }
+		  }
+		  else tiny[i].style.visibility="hidden";
+		}
+		document.onmousemove=mouse;
+		function mouse(e) {
+		  if (e) {
+		    y=e.pageY;
+		    x=e.pageX;
+		  }
+		  else {
+		    set_scroll();
+		    y=event.y+sdown;
+		    x=event.x+sleft;
+		  }
+		}
+		window.onscroll=set_scroll;
+		function set_scroll() {
+		  if (typeof(self.pageYOffset)=='number') {
+		    sdown=self.pageYOffset;
+		    sleft=self.pageXOffset;
+		  }
+		  else if (document.body && (document.body.scrollTop || document.body.scrollLeft)) {
+		    sdown=document.body.scrollTop;
+		    sleft=document.body.scrollLeft;
+		  }
+		  else if (document.documentElement && (document.documentElement.scrollTop || document.documentElement.scrollLeft)) {
+		    sleft=document.documentElement.scrollLeft;
+		    sdown=document.documentElement.scrollTop;
+		  }
+		  else {
+		    sdown=0;
+		    sleft=0;
+		  }
+		}
+		window.onresize=set_width;
+		function set_width() {
+		  var sw_min=999999;
+		  var sh_min=999999;
+		  if (document.documentElement && document.documentElement.clientWidth) {
+		    if (document.documentElement.clientWidth>0) sw_min=document.documentElement.clientWidth;
+		    if (document.documentElement.clientHeight>0) sh_min=document.documentElement.clientHeight;
+		  }
+		  if (typeof(self.innerWidth)=='number' && self.innerWidth) {
+		    if (self.innerWidth>0 && self.innerWidth<sw_min) sw_min=self.innerWidth;
+		    if (self.innerHeight>0 && self.innerHeight<sh_min) sh_min=self.innerHeight;
+		  }
+		  if (document.body.clientWidth) {
+		    if (document.body.clientWidth>0 && document.body.clientWidth<sw_min) sw_min=document.body.clientWidth;
+		    if (document.body.clientHeight>0 && document.body.clientHeight<sh_min) sh_min=document.body.clientHeight;
+		  }
+		  if (sw_min==999999 || sh_min==999999) {
+		    sw_min=800;
+		    sh_min=600;
+		  }
+		  swide=sw_min;
+		  shigh=sh_min;
+		}
+		function createDiv(height, width) {
+		  var div=document.createElement("div");
+		  div.style.position="absolute";
+		  div.style.height=height+"px";
+		  div.style.width=width+"px";
+		  div.style.overflow="hidden";
+		  return (div);
+		}
+		function newColour() {
+		  var c=new Array();
+		  c[0]=255;
+		  c[1]=Math.floor(Math.random()*256);
+		  c[2]=Math.floor(Math.random()*(256-c[1]/2));
+		  c.sort(function(){return (0.5 - Math.random());});
+		  return ("rgb("+c[0]+", "+c[1]+", "+c[2]+")");
+		}
